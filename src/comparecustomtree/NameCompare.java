@@ -1,7 +1,7 @@
 package comparecustomtree;
 
 import java.util.Comparator;
-
+//The Comparator implementation holds the sorting logic.
 public class NameCompare implements Comparator<Employee>{
 	
 	@Override

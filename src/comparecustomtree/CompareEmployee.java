@@ -1,3 +1,7 @@
+/*
+ * To implement your own sorting functionality with TreeSet on user defined objects,
+ * we have to pass Comparator object along with TreeSet constructor call.
+ * */
 package comparecustomtree;
 
 import java.util.TreeSet;
